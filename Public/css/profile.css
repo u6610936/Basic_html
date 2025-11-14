@@ -1,12 +1,12 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #f5f6fa;  /* ลองเปลี่ยนสีเล่นได้ */
-  color: #333;                /* สีตัวอักษรหลัก */
+  background-color: #eae4e2;  /* ลองเปลี่ยนสีเล่นได้ */
+  color: #000000;                /* สีตัวอักษรหลัก */
 }
 
 header {
-  background-color: #998000;  /* สีพื้น header */
+  background-color: #ffd500;  /* สีพื้น header */
   color: white;               /* สีตัวหนังสือใน header */
   text-align: center;
   padding: 20px;
